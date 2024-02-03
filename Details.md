@@ -1,3 +1,8 @@
+# TODO
+
+This is all from shufflebits work on their module.  This could be updated for the GU126X32F-K612A4.
+
+
 # Interface speed
 
 It's really slow. Even with synchronous serial, we are getting about 58kbps - better than 38.4kbps, but not great. Also, the BUSY line stays on for 152us after *each byte*.
